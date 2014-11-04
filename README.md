@@ -8,14 +8,10 @@ Open Weekend School Management System
 
 **Table of Contents**
 
-- Team Members
-- Project Demo
-
-*[Team Members](#team-members)
+* [Team Members](#team-members)
+* [Project Demo](#project-demo)
 
 #<a name="team-members"></a>Team Members
 * "Ariff Shaik" <ariffshaik@users.noreply.github.com>
 
-
-    Add a indent and this will end up as code
 
